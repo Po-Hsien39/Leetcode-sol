@@ -1,9 +1,0 @@
-{
-  "files.associations": {
-    ".env": "plaintext",
-    "vector": "cpp",
-    "algorithm": "cpp",
-    "iosfwd": "cpp",
-    "string": "cpp"
-  }
-}
