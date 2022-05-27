@@ -7,10 +7,10 @@
 #### Problems
 
 ```diff
-1. Easy:   13 / 573
-2. Medium: 27 / 1211
+1. Easy:   14 / 573
+2. Medium: 28 / 1211
 3. Hard:    3 / 497
-4. Total:  43 / 2281
+4. Total:  45 / 2281
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
@@ -19,6 +19,7 @@
 | 2    | [Add Two Num](https://leetcode.com/problems/add-two-numbers/)                                                                                                           | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0002-Add_Two_Num)                                                         | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0003-Longest_Substring_Without_Repeating_Characters)                      | Medium     |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0005-Longest-Palindromic-Substring)                                      | Medium     |
+| 6    | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0006-Zigzag-Conversion)                                                  | Medium     |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                                   | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0009-Palindrome_Number)                                                   | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0013-Roman-to-Integer)                                                   | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                                           | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0014-Longest_Common_Prefix)                                               | Easy       |
@@ -48,6 +49,7 @@
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1192-Critical-Connections-in-a-Network)                                  | Hard       |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                                               | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1209-Remove-All-Adjacent-Duplicates-in-String-II)                         | Medium     |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)                                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1302-Deepest-Leaves-Sum)                                                 | Medium     |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero)                         | Easy       |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree) | Easy       |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1641-Count-Sorted-Vowel-Strings)                                         | Medium     |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                                   | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1679-Max-Number-of-K-Sum-Pairs)                                           | Medium     |
