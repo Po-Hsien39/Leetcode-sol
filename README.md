@@ -7,10 +7,10 @@
 #### Problems
 
 ```diff
-1. Easy:   14 / 573
-2. Medium: 28 / 1211
+1. Easy:   15 / 573
+2. Medium: 30 / 1211
 3. Hard:    3 / 497
-4. Total:  45 / 2281
+4. Total:  48 / 2281
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
@@ -30,6 +30,9 @@
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0032-Longest-Valid-Parentheses)                                          | Hard       |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0047-Permutations-II)                                                    | Medium     |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0063-Unique-Paths-II)                                                    | Medium     |
+| 77   | [Combinations](https://leetcode.com/problems/combinations/)                                                                                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0077-Combinations)                                                       | Medium     |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0094-Binary-Tree-Inorder-Traversal)                                      | Easy       |
+| 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0102-Binary-Tree-Level-Order-Traversal)                                  | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node I](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0116-Populating-Next-Right-Pointers-in-Each-Node-I)                      | Medium     |
 | 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0117-Populating-Next-Right-Pointers-in-Each-Node-II)                     | Medium     |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0191-Number-of-1-Bits)                                                   | Easy       |
