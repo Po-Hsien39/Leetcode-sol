@@ -7,10 +7,10 @@
 #### Problems
 
 ```diff
-1. Easy:   16 / 573
-2. Medium: 31 / 1211
+1. Easy:   17 / 573
+2. Medium: 34 / 1211
 3. Hard:    3 / 497
-4. Total:  50 / 2281
+4. Total:  54 / 2289
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
@@ -27,6 +27,7 @@
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0017-Letter-Combinations-of-a-Phone-Number)                              | Medium     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0020-Valid-Parentheses)                                                  | Easy       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0022-Generate-Parentheses)                                               | Medium     |
+| 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0029-Divide-Two-Integers)                                                | Medium     |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0031-Next-Permutation)                                                   | Medium     |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0032-Longest-Valid-Parentheses)                                          | Hard       |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0047-Permutations-II)                                                    | Medium     |
@@ -41,6 +42,7 @@
 | 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0225-Implement-Stack-using-Queues)                                       | Easy       |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0268-Missing-Number)                                                     | Easy       |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0300-Longest-Increasing-Subsequence)                                     | Medium     |
+| 318  | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0318-Maximum-Product-of-Word-Lengths)                                    | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0322-Coin-Change)                                                        | Medium     |
 | 354  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)                                                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0354-Russian-Doll-Envelopes)                                             | Hard       |
 | 474  | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0474-Ones-and-Zeroes)                                                    | Medium     |
