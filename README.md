@@ -7,10 +7,10 @@
 #### Problems
 
 ```diff
-1. Easy:   24 / 573
-2. Medium: 39 / 1211
-3. Hard:    3 / 497
-4. Total:  66 / 2289
+1. Easy:   24
+2. Medium: 39
+3. Hard:    5
+4. Total:  68 / 2296
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
@@ -34,6 +34,8 @@
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0031-Next-Permutation)                                                   | Medium     |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0032-Longest-Valid-Parentheses)                                          | Hard       |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0047-Permutations-II)                                                    | Medium     |
+| 51   | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0051-N-Queens)                                                           | Hard       |
+| 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0052-N-Queens-II)                                                        | Hard       |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0063-Unique-Paths-II)                                                    | Medium     |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0067-Add-Binary)                                                         | Easy       |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/)                                                                                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0077-Combinations)                                                       | Medium     |

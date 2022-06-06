@@ -31,8 +31,7 @@ public:
   {
     if (target.size() == k)
     {
-      vector<int> vect2(target);
-      this->result.push_back(vect2);
+      this->result.push_back(target);
       return;
     }
     target.push_back(pos + 1);
