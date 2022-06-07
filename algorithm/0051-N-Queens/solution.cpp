@@ -4,22 +4,18 @@
 
 using namespace std;
 
-class Solution
-{
-private:
+class Solution {
+ private:
   vector<vector<string>> results;
 
-public:
-  vector<vector<string>> solveNQueens(int n)
-  {
+ public:
+  vector<vector<string>> solveNQueens(int n) {
     vector<string> current(n, string(n, '.'));
     getQueenCombination(0, n, current);
     return this->results;
   }
-  bool isValid(vector<string> &board, int row, int col)
-  {
-    for (int i = 1; i <= row; i++)
-    {
+  bool isValid(vector<string> &board, int row, int col) {
+    for (int i = 1; i <= row; i++) {
       if (board[row - i][col] != '.')
         return false;
       if (row - i >= 0 && col + i < board.size() && board[row - i][col + i] != '.')
@@ -29,10 +25,8 @@ public:
     }
     return true;
   }
-  void getQueenCombination(int layer, int n, vector<string> &current)
-  {
-    for (int i = 0; i < n; i++)
-    {
+  void getQueenCombination(int layer, int n, vector<string> &current) {
+    for (int i = 0; i < n; i++) {
       if (!isValid(current, layer, i))
         continue;
       current[layer][i] = 'Q';
@@ -45,8 +39,7 @@ public:
   }
 };
 
-int main()
-{
+int main() {
   Solution mySol;
   mySol.solveNQueens(3);
 
