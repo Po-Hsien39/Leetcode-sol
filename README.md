@@ -7,10 +7,10 @@
 #### Problems
 
 ```diff
-1. Easy:   27
+1. Easy:   30
 2. Medium: 40
 3. Hard:    5
-4. Total:  72 / 2296
+4. Total:  75 / 2296
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
@@ -41,12 +41,15 @@
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0067-Add-Binary)                                                         | Easy       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0070-Climbing-Stairs)                                                    | Easy       |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/)                                                                                                             | [C++, JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0077-Combinations)                                                   | Medium     |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                                 | [C++, JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0088-Merge-Sorted-Array)                                             | Easy       |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0094-Binary-Tree-Inorder-Traversal)                                      | Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0102-Binary-Tree-Level-Order-Traversal)                                  | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node I](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                                             | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0116-Populating-Next-Right-Pointers-in-Each-Node-I)                      | Medium     |
 | 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0117-Populating-Next-Right-Pointers-in-Each-Node-II)                     | Medium     |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0121-Best-Time-to-Buy-and-Sell-Stock)                                    | Easy       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0125-Valid-Palindrome)                                                   | Medium     |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0160-Intersection-of-Two-Linked-Lists)                                   | Easy       |
+| 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0169-Majority-Element)                                                   | Easy       |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0191-Number-of-1-Bits)                                                   | Easy       |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0205-Isomorphic-Strings)                                                 | Easy       |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0216-Combination-Sum-III)                                                | Medium     |
