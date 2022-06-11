@@ -8,16 +8,16 @@
 
 ```diff
 1. Easy:   33
-2. Medium: 41
+2. Medium: 46
 3. Hard:    5
-4. Total:  79 / 2296
+4. Total:  84 / 2296
 ```
 
 | #    | Title                                                                                                                                                                   | Solution                                                                                                                                      | Difficulty |
 | ---- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                       | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0001-Two_Sum)                                                             | Easy       |
 | 2    | [Add Two Num](https://leetcode.com/problems/add-two-numbers/)                                                                                                           | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0002-Add_Two_Num)                                                         | Medium     |
-| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0003-Longest_Substring_Without_Repeating_Characters)                      | Medium     |
+| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | [C++,JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0003-Longest_Substring_Without_Repeating_Characters)                  | Medium     |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0005-Longest-Palindromic-Substring)                                      | Medium     |
 | 6    | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0006-Zigzag-Conversion)                                                  | Medium     |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0007-Reverse-Integer)                                                    | Medium     |
@@ -34,6 +34,7 @@
 | 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0029-Divide-Two-Integers)                                                | Medium     |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                                                     | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0031-Next-Permutation)                                                   | Medium     |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0032-Longest-Valid-Parentheses)                                          | Hard       |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0033-Search-in-Rotated-Sorted-Array)                                     | Hard       |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0047-Permutations-II)                                                    | Medium     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                                                                     | [C++, JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0051-N-Queens)                                                       | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                                                               | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/0052-N-Queens-II)                                                        | Hard       |
