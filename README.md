@@ -7,8 +7,8 @@
 #### Problems
 
 ```diff
-1. Easy:   33
-2. Medium: 46
+1. Easy:   35
+2. Medium: 51
 3. Hard:    5
 4. Total:  84 / 2296
 ```
@@ -87,7 +87,9 @@
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K)              | Medium     |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                                       | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1480-Running-Sum-of-1d-Array)                                            | Easy       |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)                                                                                 | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1641-Count-Sorted-Vowel-Strings)                                         | Medium     |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1658-Minimum-Operations-to-Reduce-X-to-Zero)                             | Medium     |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                                   | [JS](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1679-Max-Number-of-K-Sum-Pairs)                                           | Medium     |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)                                                                                           | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/1695-Maximum-Erasure-Value)                                              | Medium     |
 | 2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)                                   | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/2274-Maximum-Consecutive-Floors-Without-Special-Floors)                  | Medium     |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/2275-Largest-Combination-With-Bitwise-AND-Greater-Than-Zero)             | Medium     |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)                                                                         | [C++](https://github.com/Po-Hsien39/Leetcode-sol/tree/main/algorithm/2278-Percentage-of-Letter-in-String)                                     | Easy       |
